@@ -74,8 +74,8 @@ body{
 }
 .heart {
   position: absolute;
-  top: 50%;
-  left: 60%;
+  top: 60%;
+  left: 50%;
   width: 15px;
   height: 15px;
   background: var(--heart-color);
